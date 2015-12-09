@@ -1,0 +1,41 @@
+# Node #
+logs
+*.log
+pids
+*.pid
+*.seed
+lib-cov
+coverage
+.grunt
+.lock-wscript
+node_modules
+
+# JetBrains IDE: IntelliJ, WebStorm #
+.idea/
+*.ipr
+*.iml
+*.iws
+/out
+/.idea_modules
+/.classpath
+
+# Netbeans #
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Eclipse #
+.classpath
+.project
+.settings/
+
+# OSX #
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
